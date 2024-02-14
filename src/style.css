@@ -1,0 +1,55 @@
+.form-row {
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    
+    
+}
+.input {
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.header {
+    font-size: 45px;
+}
+.btn {
+    margin-top: 5px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+
+}
+.header {
+    margin-top: 10px;
+    color: rgb(26, 21, 21);
+}
+
+    
+* {
+    list-style: none;
+}
+
+.btn2 {
+    background-color: rgb(218, 14, 14);
+    color: white;
+    padding: 2px;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+.link {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.list {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    
+}
